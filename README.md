@@ -1,8 +1,10 @@
 # pandas-challenge-1
 
-## Step 1: Explore the Data
+This pandas challenge asks the developer to load a csv file of data into a DataFrame and utilizes that dataframe to explore the data, prepare it for analysis and modify the data for display in 4 parts.  
 
-Blah blah info
+> Note that this work is provided in the form of a Jupyter Notebook which assumes that all steps are run in succession for successful completion of the program. 
+
+## Step 1: Explore the Data
 
 Initial work in exploration of the data includes getting general information about the data that was imported including
 
